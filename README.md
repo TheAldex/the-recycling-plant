@@ -1,4 +1,4 @@
-# THE RECYCLING PLANT PROBLEM
+# THE RECYCLING PLANT PROBLEM BY ANGEL HERRANZ
 # JAVA CONCURRENCY USING MONITORS AND JCSP
 
 The solution is specified in ControlRecicladoMonitor class and ControlRecicladoCSP class
